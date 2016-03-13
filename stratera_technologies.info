@@ -78,6 +78,7 @@ dependencies[] = xmlsitemap_taxonomy
 dependencies[] = features
 dependencies[] = icompany_config
 
+
 ; ----------
 ; Variables
 ; ----------
